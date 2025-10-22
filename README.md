@@ -91,5 +91,3 @@ Linux disk management commands
 Shell scripting automation
 
 Log file generation and output redirection
-
-Professional portfolio presentation
